@@ -8,5 +8,5 @@
   <br>
   <img height="180em" src="https://github.r2v.ch/codewars?user=LeikRad&stroke=%23238871"/>
   <br>
-  ![Demo](https://media.tenor.com/AVo9s1_tOP4AAAAC/michi-jumping-cat.gif)
+    <img src="michi-jumping-cat2.gif " alt="animated" />
 </div>
