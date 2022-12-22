@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/LeikRad">
-  ![Demo](https://media.tenor.com/dMLTAk-nC2kAAAAC/michi-jumping-cat.gif)
+  ![Demo](https://media.tenor.com/H3zxfNjBZ2UAAAAC/cat-box.gif)
   <br>
   <img width="100%" alt="Developer Illustration" src="https://soranews24.com/wp-content/uploads/sites/3/2015/07/ezgif-1833955273.gif"/>
   <img height="180em" src="https://github-readme-stats-npdib1p4e-leikrad.vercel.app/api/?username=LeikRad&layout=compact&langs_count=7&theme=gotham"/>
