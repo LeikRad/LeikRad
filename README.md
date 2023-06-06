@@ -5,4 +5,10 @@
   <img height="180em" src="https://github.r2v.ch/codewars?user=LeikRad&stroke=%23238871"/>
 </div>
 
-![Snake Animation](https://github.com/LeikRad/LeikRad/blob/output/github-snake-dark.svg)>
+## 
+
+<div>
+  
+  ![Snake Animation](https://github.com/LeikRad/LeikRad/blob/output/github-snake-dark.svg)
+  
+</div>
